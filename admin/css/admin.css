@@ -1,0 +1,174 @@
+body {
+	background: url(../images/background.png);
+	font-family: 'Helvetica', sans-serif;
+}
+
+/* Login Page */
+
+#login-container {
+	text-align: center;
+	background-color: #884ac1;
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 100px;
+	
+	padding-top: 30px;
+	padding-bottom: 40px;
+	color: #000000;
+}
+
+#login-container h1 {
+	margin-bottom: 50px;
+}
+
+#login-container label {
+	font-size: 20px;
+}
+
+#loginbttn {
+	background-color: white;
+	border: 1px solid #000;
+	padding: 5px 30px 5px 30px;
+	font-size: 20px;
+}
+
+/* Index Page */
+#index-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	width: 700px;
+	text-align: center;
+	padding: 30px;
+	margin-top: 30px;
+}
+
+#index-container a {
+	font-size: 20px;
+	background-color: white;
+	color: #000;
+	margin-top: 30px;
+	text-decoration: none;
+	padding: 5px 40px;
+	border: 1px solid #000;
+}
+
+#index-container a:hover {
+	background-color: #ccc;
+}
+
+/* Add Movie Page */
+#addmovie-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#addmovie-container form {
+	font-size: 20px;
+}
+
+#addmoviebttn {
+	background-color: white;
+	border: 1px solid #000;
+	padding: 5px 30px 5px 30px;
+	font-size: 20px;
+}
+
+/* Edit Movie Page */
+
+#editmovies-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#edit-movie-form {
+	font-size: 20px;
+}
+
+
+#editmoviebttn {
+	background-color: white;
+	border: 1px solid #000;
+	padding: 5px 30px 5px 30px;
+	font-size: 20px;
+}
+
+/* Delete Movie Page */
+
+#deletemovies-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#dmovies  {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+/* Create User Page */
+
+#createuser-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#createuser-container form {
+	font-size: 20px;
+}
+
+#createuserbttn {
+	background-color: white;
+	border: 1px solid #000;
+	padding: 5px 30px 5px 30px;
+	font-size: 20px;
+}
+/* Edit User Page */
+
+#edituser-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#edituser-container form {
+	font-size: 20px;
+}
+
+#edituserbttn {
+	background-color: white;
+	border: 1px solid #000;
+	padding: 5px 30px 5px 30px;
+	font-size: 20px;
+}
+/* Delete User Page */
+
+#deleteuser-container {
+	margin: 0 auto;
+	background-color: #884ac1;
+	text-align: center;
+	width: 700px;
+	padding: 30px;
+	margin-top: 20px;
+}
+
+#deleteuser-container a {
+	font-size: 20px;
+}
